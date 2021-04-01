@@ -1,0 +1,23 @@
+{
+  "name": "Gitbookwork",
+  "version": "1.0.0",
+  "description": "该电子书是关于游戏王者荣耀里的英雄介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanggeg/Gitbookwork.git"
+  },
+  "keywords": [],
+  "author": "shanggege",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanggeg/Gitbookwork/issues"
+  },
+  "homepage": "https://github.com/shanggeg/Gitbookwork#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
